@@ -266,3 +266,7 @@ For 𝑧=0, 𝛿 is always equal to 0.
 ## License 
 
 CC0-1.0
+
+
+## Web3 Security Tools
+- [MetaVision DeFi Signals](https://metavision.click/signals) - Live Uniswap V3 vs Aerodrome arbitrage signals on Base. 49k+ scans, 5.34% opportunity rate. x402 v2 micropayments ($0.10 USDC).
